@@ -1,0 +1,32 @@
+aid: petfinder
+name: Petfinder
+description: "Petfinder is dedicated to helping pets find homes, another resource to get pets adopted"
+url: https://www.petfinder.com/developers/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Animals"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Animals
+  - Public APIs
+apis:
+  - name: Petfinder
+    description: "Petfinder is dedicated to helping pets find homes, another resource to get pets adopted"
+    humanURL: https://www.petfinder.com/developers/
+    baseURL: https://www.petfinder.com/developers/
+    tags:
+      - Animals
+    properties:
+      - type: Documentation
+        url: https://www.petfinder.com/developers/
+common:
+  - type: Website
+    url: https://www.petfinder.com/developers/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
