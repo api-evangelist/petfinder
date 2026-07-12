@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.petfinder.com/developers/
 common:
+  - type: DomainSecurity
+    url: security/petfinder-domain-security.yml
   - type: Website
     url: https://www.petfinder.com/developers/
   - type: PublicAPIsListing
