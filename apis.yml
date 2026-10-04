@@ -39,7 +39,6 @@ apis:
   - name: Petfinder
     description: "Petfinder is dedicated to helping pets find homes, another resource to get pets adopted"
     humanURL: https://www.petfinder.com/developers/
-    baseURL: https://www.petfinder.com/developers/
     tags:
       - Animals
     properties:
