@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "petfinder",
+    "captured_at": "2026-10-11T191804",
+    "source_url": "https://www.petfinder.com/developers/",
+    "source_type": "Website",
+    "file": "petfinder-2026-10-11T191804.png",
+    "bytes": 97424,
+    "capture": "playwright-local"
+  }
+]
